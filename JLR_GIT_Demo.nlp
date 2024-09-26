@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=JLR_GIT_Demo
+project.version=8.9
+project.original.version=8.9
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2024.1.0
+project.is-open-test-settings-after-upload=false
+project.id=e6d1335f-9dbb-4b13-8f7a-38e8465831dd
+project.config.path=team
+project.config.storage=XML_MULTI
+team.server.enabled=true
+team.server.project=/rushikeshjadhav25/JLR_Demo
